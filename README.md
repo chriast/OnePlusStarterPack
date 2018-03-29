@@ -9,4 +9,4 @@ coming soon
 ## CHANGELOG
 
 v1.0
-- Initial release for MAgisk 15.0+
+- Initial release for Magisk 15.0+
