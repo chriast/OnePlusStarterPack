@@ -1,0 +1,8 @@
+id=OnePlusStarterPack
+name=OnePlus Starter Pack
+version=v1
+versionCode=1
+author=Zincoshine
+description=Does a variety of changes to OnePlus phones that every oneplus user should want. systemless-ly.
+minMagisk=1500
+template=4
